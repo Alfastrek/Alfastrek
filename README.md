@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfastrek
 - 👀 I’m interested in coding and robotics
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Java 
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me @alfastrek-instagram
 
 <!---
