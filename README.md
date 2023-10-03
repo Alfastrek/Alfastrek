@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aradhya Shukla</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on **Chatbot System**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web development**
 
 - 💬 Ask me about **Python, Numpy, Pandas, Databse mangement**
