@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web development**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Databse mangement**
+- 💬 Ask me about **Python, Data Analysis, Web Development, Java Script, Machine learning**
 
 - 📫 How to reach me **Aradhya1703@gmail.com**
 
