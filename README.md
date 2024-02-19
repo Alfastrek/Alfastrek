@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aradhya Shukla</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web development**
+- 🌱 I’m currently learning **Web development, DevOps and  **
 
 - 💬 Ask me about **Python, Data Analysis, Web Development, Java Script, Machine learning**
 
 - 📫 How to reach me **Aradhya1703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o01jkc40_28MSTIbyuKLbIArj21v3cgS/view?usp=sharing](https://drive.google.com/file/d/1o01jkc40_28MSTIbyuKLbIArj21v3cgS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11f8QXy9G10ITP7tNuk8zapsJqyiHQTju/view?usp=sharing]
 
-- ⚡ Fun fact **I am a Content Creator**
+- ⚡ Fun fact **I am a Content Creator and I create content on Youtube - (Alfastrek Fitness) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
