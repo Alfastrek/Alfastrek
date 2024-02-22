@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aradhya Shukla</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🌱 I’m currently learning **Web development, DevOps and**
+- 🌱 I’m currently learning **Web development, DevOps, Machine Learning**
 
-- 💬 Ask me about **Python, Data Analysis, Web Development, Java Script, Machine learning**
+- 💬 Ask me about **Python, Data Analysis, Web Development, JavaScript, Machine learning**
 
 - 📫 How to reach me **Aradhya1703@gmail.com**
 
