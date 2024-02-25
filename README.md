@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11f8QXy9G10ITP7tNuk8zapsJqyiHQTju/view?usp=sharing]
 
-- ⚡ Fun fact **I am a Content Creator and I create content on Youtube - (Alfastrek Fitness) **
+- ⚡ Fun fact **I am a Content Creator and I create content on Youtube - (Alfastrek Fitness)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
