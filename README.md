@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aradhya Shukla</h1>
-<h3 align="center">A Passionate Python Developer from India</h3>
+
 
 - 🌱 I’m currently learning **Web development, DevOps, Machine Learning.**
 
