@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Aradhya1703@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/hbIZN]
+- 📄 Know about my experiences [https://shorturl.at/ujj0v]
 
 - ⚡ Fun fact **I am a Content Creator and I create content on Youtube - (Alfastrek Fitness)**
 
